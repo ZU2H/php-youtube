@@ -1,0 +1,2 @@
+<h1>Contact</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam odio autem officiis dolore nihil modi maxime libero. Nihil excepturi, accusamus provident placeat rerum sunt. Similique eius delectus dolores nobis asperiores!</p>
